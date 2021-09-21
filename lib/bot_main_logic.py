@@ -18,7 +18,7 @@ def sender_call():
 
         driver = webdriver.Chrome(config.BROWSER_DRIVER_PATH)
 
-        driver.get("http://query3.e-cann.com.tw/wedi2012/wedilogin.asp")
+        driver.get("http://query3.e-can.com.tw/wedi2012/wedilogin.asp")
 
         time.sleep(5)
 
