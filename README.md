@@ -10,7 +10,7 @@ Automatically do the E-can Sender call for you.
 但你必須符合以下條件：
 
 <ul>
-    <li>你必須要是 大嘴鳥 / 宅配通 的契約客戶</li>
+    <li>必須要是 大嘴鳥 / 宅配通 的契約客戶</li>
     <li>必須要 申請/使用 過大嘴鳥的 WebEDI 服務</li>
     <li>電腦已安裝 Google Chrome 瀏覽器</li>
 </ul>
