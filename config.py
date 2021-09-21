@@ -1,13 +1,13 @@
 #============================ 基本設定 ============================
 
 # 建議參考README.md文件設定
-BROWSER_DRIVER_PATH = "/Users/josephc./Desktop/Codes/Python/ChromeDriver/chromedriver"
+BROWSER_DRIVER_PATH = "ChromeDriver/chromedriver.exe"
 
 # 宅配通EDI客代
-ID = "4669080101"
+ID = "1234567890"
 
 # 宅配通EDI密碼
-PASSWORD = "ab271020"
+PASSWORD = "abcd1234"
 
 
 
