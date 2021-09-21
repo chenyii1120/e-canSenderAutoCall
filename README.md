@@ -19,4 +19,4 @@ Automatically do the E-can Sender call for you.
 
 ### 1. 下載 Chrome Drive
 
-# 最近會把RD文件補完的QQ ㄅ歉
+# 最近會把md文件補完的QQ ㄅ歉
