@@ -17,6 +17,6 @@ Automatically do the E-can Sender call for you.
 
 ## 如何開始
 
-### 1. 下載 Chrome Drive
+### 1. 下載 Chrome Driver
 
 # 最近會把md文件補完的QQ ㄅ歉
