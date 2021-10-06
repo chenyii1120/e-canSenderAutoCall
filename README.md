@@ -17,6 +17,9 @@ Automatically do the E-can Sender call for you.
 
 ## 如何開始
 
-### 1. 下載 Chrome Driver
+### 1. 檢查 Google Chrome 版本
+進入 Google Chrome 後點選右上角三個點點，選擇「設定」  
+進入設定畫面後點選左側「關於 Chrome」查看版本號碼
+### 2. 下載 Chrome Driver
 
 # 最近會把md文件補完的QQ ㄅ歉
