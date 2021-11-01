@@ -26,7 +26,8 @@ TARGET_TIME = "15:00"
 # (建議至少設置 5 分鐘以上，設置為 0 仍將判斷為 1 分鐘，若真的要停用間隔請輸入 -1)
 INNER_TIMER_CHECK_INTERVAL = 5
 
-
+# 是否跳過週末 (True/False)
+SKIP_WEEKEND = True
 
 
 
@@ -43,9 +44,6 @@ CRASH_REPORT_NAME_FORMAT = "%Y%m%d_%H%M%S"
 
 
 #============================ 待實現功能 ============================
-
-# TODO: 是否跳過週末 (True/False)
-SKIP_WEEKEND = True
 
 # TODO: 是否需生成log檔(建議為True)
 NEED_LOG = True
