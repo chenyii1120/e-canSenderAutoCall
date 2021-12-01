@@ -21,5 +21,20 @@ Automatically do the E-can Sender call for you.
 進入 Google Chrome 後點選右上角三個點點，選擇「設定」  
 進入設定畫面後點選左側「關於 Chrome」查看版本號碼
 ### 2. 下載 Chrome Driver
-
-# 最近會把md文件補完的QQ ㄅ歉
+進入以下連結，選擇對應的版本下載即可  
+https://chromedriver.chromium.org/
+### 3. 將 Chrome Driver 丟進 /ChromeDriver 資料夾
+### 4. 設定 config.py 檔案
+### 5. 編寫 bat / sh 檔案
+ * for Windows
+ ```console
+ python3 main.py
+ pause
+ ```
+   儲存成 start.bat 後即可雙擊啟動
+ * for Mac / Linux
+ ```console
+ python3 main.py
+ ```
+   儲存成 start.sh 後即可雙擊啟動
+   Mac 系統可參考 [這篇](https://www.minwt.com/mac/22625.html) 教學來讓系統可雙擊開啟 sh
